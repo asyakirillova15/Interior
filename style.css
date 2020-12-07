@@ -1,0 +1,47 @@
+body{
+    background-image: url("img/home-page Background@1X.png");
+}
+.container{
+    width: 1366px;
+    height: 1400px;
+    margin: 0 auto;
+    padding: 62px 167px 0 97px;
+}
+.header{
+    width: 1102px;
+    height: 28px;
+    vertical-align: top;
+    position: relative;
+ }
+.menu{
+    display: inline-block;
+    float: right;
+    position: absolute;
+
+}
+.ul-menu{
+    display: inline-block;
+    font-family:Montserrat-Light,Montserrat-Bold,AdobeInvisFont,MyriadPro-Regular;
+    font-size: 14px;
+    text-align: left;
+    list-style-type: none;
+    color:#212121;
+}
+.ul-menu li {
+    display: inline-block;
+    width: 490px;
+}
+.search{
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+}
+a.logo{
+    display: inline-block;
+    float: left;
+}
+a.logo img{
+    width: 186px;
+    height: 23px;
+
+}
